@@ -15,6 +15,7 @@ Foram escolhidos dois exercícios do codeforces em c++, um envolvendo o algoritm
 ## Screenshots
 <img src="/prints/print1.png" alt="drawing" width="200"/>
 <img src="/prints/print2.png" alt="drawing" width="200"/>
+<img src="/prints/print3.png" alt="drawing" width="200"/>
 
 ## Instalação 
 **Linguagem**: C++<br>
